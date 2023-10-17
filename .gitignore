@@ -1,0 +1,8 @@
+venv/
+.chroma/
+educagpt2/
+educagpt3/
+educagpt4/
+SQLenv/
+keys.env
+DOCsearch/DOCsearch_palestra.py

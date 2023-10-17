@@ -1,0 +1,3 @@
+[spacy_models]
+pt_textcat_demo8 = pt_textcat_demo8
+
